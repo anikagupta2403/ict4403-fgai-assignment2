@@ -1,0 +1,45 @@
+Seed: first citizen: before we proceed any further, hear me speak. all: speak, speak. first
+
+===== Simple RNN =====
+
+Temperature 0.5:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first senator: then we, that his case, and <unk> the <unk> of the <unk>. coriolanus: no, ay, and so, and what, and
+
+Temperature 1.0:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first nothing well colour to be but, to bound the head company that ladies is of her tribunes all what one borne, by who arm'd pardon liberty, do
+
+Temperature 1.5:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first norfolk angelo after counsel, for murdering it ourselves in souls that lies the god sacrifice, seeking purpose, began me bona cry a we where therefore? some
+
+===== Bidirectional RNN =====
+
+Temperature 0.5:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first citizen: i have thee to your, and the world, my lord, i am pale whom soul. i have open. duke, aside: come
+
+Temperature 1.0:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first citizen: all the king henry's thou weeps deep place unto still varrius worthy at his simple. still: sweet, if, that for a their hag,
+
+Temperature 1.5:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first tongue stay he'll feels verily the prevail'd is i curs a tale. extremes tumbling go right henry full bolingbroke: what should royally aptness leave which dread till smooth'd
+
+===== LSTM =====
+
+Temperature 0.5:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first: i will not; and i the <unk> of the world? king richard: i will to the <unk>. first who have the king edward; and
+
+Temperature 1.0:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first of being duke ah thereof cause to escalus, current spirit eye or not me an; wisdom masters either love, and is good people i above? if
+
+Temperature 1.5:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first dread hitherward know go for kindred, laurence here too norfolk no depart trial gainst; pines town themselves ten almost them with say to play'd untouch'd to think me
+
+===== GRU =====
+
+Temperature 0.5:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first citizen: why, but, and the <unk> of the cause. the <unk> of <unk>: he good to die, and <unk> me to the <unk> of
+
+Temperature 1.0:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first citizen: thine and bone wars, counsel is gone: tender hugg'd thou where along. what express granted the and of the greeting glory in could; and
+
+Temperature 1.5:
+first citizen: before we proceed any further, hear me speak. all: speak, speak. first life supreme have whate'er the among fellow? it hearts a since sorrow bloodily shop loved affliction isabella in peter, brave children's pitied may: canst: what timeless
